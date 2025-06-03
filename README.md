@@ -1,6 +1,7 @@
 # DiscordAIchatbot
 A simple, friendly Discord AI chatbot
 
+Make sure to first install all the required libraries
 To use this Discord chatbot, follow these steps:
 Create a Discord bot on the discord developer portal, Give it all the necessary permissions, copy the bot token
 create a file named ".env" and paste the following in it: "DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN"
